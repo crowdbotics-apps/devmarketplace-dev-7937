@@ -70,7 +70,7 @@ export class _Blank extends React.Component {
           paddingRight: 0,
           paddingTop: 0,
           paddingBottom: 0,
-          overflow: "visible",
+          overflow: "hidden",
           textAlign: "left",
           verticalAlign: "baseline",
           fontSize: 20,
@@ -90,7 +90,7 @@ export class _Blank extends React.Component {
           borderRightWidth: 0,
           borderTopWidth: 0,
           borderBottomWidth: 0,
-          borderRadius: 0,
+          borderRadius: 10,
           backgroundSize: "auto"
         }}
       >
